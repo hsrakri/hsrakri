@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hsrakri
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning about autogen
-- 💞️ I’m looking to collaborate on autogen 
+- 💞️ I’m looking to collaborate on autogen
+- I am starting to learn GO or atleast play around with it in Cursor :)
 
 
 <!---
